@@ -15,12 +15,22 @@
 <h2>👤 Sobre mim</h2>
 <pre>
 > run "about_me.sh"
+Initializing neural interface...
 Loading data...
-Name: Ruan Xavier
-Role: Full Stack Developer
-Focus: Java + Spring Boot + Angular
-Mission: Build futuristic and scalable applications
+----------------------------------------
+👨‍💻 Nome: Ruan Xavier
+🧠 Função: Full Stack Developer
+⚙️ Stack Principal: Java + Spring Boot + Angular
+🚀 Missão: Criar sistemas inteligentes, escaláveis e visualmente impactantes
+🌌 Filosofia: Código é arte — cada linha deve ter propósito e elegância
+----------------------------------------
+System status: ACTIVE 🔵
 </pre>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-FullStack%20Java%20%7C%20SpringBoot%20%7C%20Angular-00F7FF?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mindset-Innovation%20%7C%20Performance%20%7C%20Design-FF00FF?style=for-the-badge&logo=brain&logoColor=white" />
+</p>
 
 ---
 
