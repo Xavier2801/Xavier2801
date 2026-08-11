@@ -14,13 +14,6 @@
   <img src="https://img.shields.io/badge/Mindset-Innovation%20%7C%20Performance%20%7C%20Design-00CED1?style=for-the-badge&logo=brain&logoColor=white" />
 </p>
 
-<!-- Banner estilo futurista -->
-<p align="center">
-  <img src="https://img.shields.io/badge/FullStack-Developer-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-SpringBoot-FF0000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-Cyberpunk-FF00FF?style=for-the-badge&logo=angular&logoColor=white" />
-</p>
-
 ---
 
 <h2>👤 Sobre mim</h2>
