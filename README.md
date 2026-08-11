@@ -117,10 +117,6 @@ Interfaces modernas e responsivas.
 ---
 
 <h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xavier2801&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier2801&layout=compact&theme=radical&hide_border=true" height="180px"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xavier2801&theme=radical&hide_border=true" height="180px"/>
