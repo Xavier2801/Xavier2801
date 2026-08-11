@@ -114,13 +114,6 @@ Interfaces modernas e responsivas.
 
 ---
 
-<h2>🏆 Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xavier2801&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7" />
-</p>
-
----
-
 <h2>🐍 Snake Contribution Animation</h2>
 <p align="center">
   <img src="https://github.com/Xavier2801/Xavier2801/blob/output/github-contribution-grid-snake.svg" />
