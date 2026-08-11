@@ -12,36 +12,41 @@
 
 ---
 
-## 👤 Sobre mim
-```bash
+<h2>👤 Sobre mim</h2>
+<pre>
 > run "about_me.sh"
 Loading data...
 Name: Ruan Xavier
 Role: Full Stack Developer
 Focus: Java + Spring Boot + Angular
 Mission: Build futuristic and scalable applications
+</pre>
 
-🛠️ Tech Stack
+---
+
+<h2>🛠️ Tech Stack</h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,angular,html,css,js,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,html,css,js,mongodb,git,github,vscode" />
 </p>
 
-📂 Projetos em Destaque
+---
+
+<h2>📂 Projetos em Destaque</h2>
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="300px">
-
-🚀 ProgramaFuncionarios
-🔹 Java  
+  
+<h3>🚀 ProgramaFuncionarios</h3>
+🔹 <b>Java</b><br>
 Estudo sobre Herança e Polimorfismo aplicando POO.
 
 </td>
 <td align="center" width="300px">
 
-⚡ demo-dao-jdbc
-🔹 Java + JDBC  
+<h3>⚡ demo-dao-jdbc</h3>
+🔹 <b>Java + JDBC</b><br>
 Projeto de acesso a banco de dados com DAO.
 
 </td>
@@ -50,15 +55,15 @@ Projeto de acesso a banco de dados com DAO.
 <tr>
 <td align="center" width="300px">
 
-🌐 ProjetoWebServices
-🔹 Java + Spring Boot  
+<h3>🌐 ProjetoWebServices</h3>
+🔹 <b>Java + Spring Boot</b><br>
 Implementação de APIs REST e integração.
 
 </td>
 <td align="center" width="300px">
 
-🛰️ ms-course
-🔹 Java + Microservices  
+<h3>🛰️ ms-course</h3>
+🔹 <b>Java + Microservices</b><br>
 Arquitetura de microserviços com comunicação entre APIs.
 
 </td>
@@ -67,42 +72,75 @@ Arquitetura de microserviços com comunicação entre APIs.
 <tr>
 <td align="center" width="300px">
 
-🗄️ ProjetoMongo
-🔹 Java + MongoDB  
+<h3>🗄️ ProjetoMongo</h3>
+🔹 <b>Java + MongoDB</b><br>
 Persistência de dados com banco NoSQL.
 
 </td>
 <td align="center" width="300px">
 
-🎯 Objetivos Atuais
-bash
+<h3>🎨 Angular Projects</h3>
+🔹 <b>Angular</b><br>
+Interfaces modernas e responsivas.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2>🎯 Objetivos Atuais</h2>
+<pre>
 > run "objectives.sh"
 [✔] Dominar arquitetura Full Stack com Java + Spring Boot + Angular
 [✔] Criar aplicações escaláveis e seguras
 [✔] Contribuir para projetos open-source
-[✔] Evoluir como desenvolvedor
+[✔] Evoluir como desenvolvedor e líder técnico
+</pre>
 
-📊 GitHub Stats
+---
+
+<h2>📊 GitHub Stats</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Xavier2801&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier2801&layout=compact&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Xavier2801&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier2801&layout=compact&theme=radical&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Xavier2801&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xavier2801&theme=radical&hide_border=true" height="180px"/>
 </p>
 
-🏆 Trophies
+---
+
+<h2>🏆 Trophies</h2>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Xavier2801&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Xavier2801&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7" />
 </p>
 
-🐍 Snake Contribution Animation
+---
+
+<h2>🐍 Snake Contribution Animation</h2>
 <p align="center">
-<img src="https://github.com/Xavier2801/Xavier2801/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Xavier2801/Xavier2801/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-⚡ Rodapé
+---
+
+<h2>🌐 Redes Sociais</h2>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=System+Shutdown...;See+you+in+the+next+commit!" alt="Typing Animation" />
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h2>⚡ Rodapé</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=System+Shutdown...;See+you+in+the+next+commit!" alt="Typing Animation" />
 </p>
