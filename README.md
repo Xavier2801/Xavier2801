@@ -1,7 +1,18 @@
 <!-- Banner principal com efeito de inicialização -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Initializing+System...;Loading+Profile...;Welcome+to+Ruan+Xavier's+GitHub!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing+System...;Access+Granted...;Welcome+to+Ruan+Xavier's+Cyber+Profile!" alt="Typing Animation" />
 </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FullStack-Developer-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-SpringBoot-FF0000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-Cyberpunk-FF00FF?style=for-the-badge&logo=angular&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Cyberpunk%20%7C%20Dark-8A2BE2?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mindset-Innovation%20%7C%20Performance%20%7C%20Design-00CED1?style=for-the-badge&logo=brain&logoColor=white" />
+</p>
 
 <!-- Banner estilo futurista -->
 <p align="center">
